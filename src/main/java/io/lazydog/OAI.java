@@ -2,7 +2,7 @@ package io.lazydog;
 
 import java.util.*;
 
-public class PlatformQueryRange {
+public class OAI {
 
     // 用于返回查询范围的类
     public static class QueryRange {
